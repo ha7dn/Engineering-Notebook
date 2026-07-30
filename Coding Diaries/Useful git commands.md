@@ -1,4 +1,3 @@
-`git init`
 ```
 git init
 git clone <url of the repo>
@@ -14,4 +13,5 @@ git branch --delete <branch name>
 git push -d origin <branch name>
 git pull
 git push origin main
+git commit -m "descriptive commit message"
 ```
