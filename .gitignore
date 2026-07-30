@@ -427,5 +427,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-*.obsidian
+*.obsidian/
 _Study - Shortcut.lnk
