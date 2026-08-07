@@ -42,6 +42,8 @@ https://milanjovanovic.tech/blog/clean-architecture-dotnet
 https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/
 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
 Clean Architecture: A Craftsman's Guide to Software Structure and Design
+https://martinfowler.com/
+Domain-Driven Design: Tackling Complexity in the Heart of Software
 ## Cloud Computing
 https://learn.microsoft.com/en-us/azure/architecture/patterns/
 https://learn.microsoft.com/en-us/azure/architecture/
