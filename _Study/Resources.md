@@ -44,6 +44,7 @@ https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
 Clean Architecture: A Craftsman's Guide to Software Structure and Design
 https://martinfowler.com/
 Domain-Driven Design: Tackling Complexity in the Heart of Software
+https://www.dddcommunity.org/
 ## Cloud Computing
 https://learn.microsoft.com/en-us/azure/architecture/patterns/
 https://learn.microsoft.com/en-us/azure/architecture/
