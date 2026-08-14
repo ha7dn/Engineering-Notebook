@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coding Diaries", "Coding Di
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{C7CAAF8B-C3F8-8415-B1CC-286BAF17971E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepts", "Coding Diaries\Examples\Concepts\Concepts.csproj", "{729B4E92-20F7-4BA9-A625-3B9E281D9E4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepts.SRP", "Coding Diaries\Examples\Concepts\Concepts.SRP.csproj", "{729B4E92-20F7-4BA9-A625-3B9E281D9E4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
