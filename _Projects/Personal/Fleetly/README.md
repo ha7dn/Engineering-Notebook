@@ -1,7 +1,6 @@
 # Project Title
 
-
-
+Uber and private car sharing management app for cars, drivers and other related things
 ## Description
 
 An in-depth paragraph about your project and overview of use.
@@ -59,3 +58,15 @@ Inspiration, code snippets, etc.
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
+# SERVICES
+### Attendance Tracking
+### Parking Gate
+### Service Time Manager
+### Car Dispatch & Allocation (AI)
+### Drivers Scheduler
+### Translation Service
+### Shift Prediction (AI)
+### Drivers Manager
+### Vehicles Manager
+### Mobile Device Manager
+### Role-based Access Control
