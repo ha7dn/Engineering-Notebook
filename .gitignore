@@ -427,6 +427,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# User-specific files
 *.obsidian/
 _Study - Shortcut.lnk
 *.env
