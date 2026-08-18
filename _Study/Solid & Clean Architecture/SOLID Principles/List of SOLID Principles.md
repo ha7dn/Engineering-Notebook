@@ -1,5 +1,0 @@
-- Single Responsibility Principle
-- Open-closed Principle
-- Liskov substitution Principle
-- Interface Segregation Principle
-- Dependency Inversion Principle
