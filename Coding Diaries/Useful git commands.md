@@ -16,3 +16,5 @@
 - Get current branch's latest changes: `git pull`
 - Push your changes to Github's repo: `git push origin <your branch>`
 - Commit changes with a message: `git commit -m "descriptive commit message"`
+- Move uncommmited changes to new branch: `git switch -c <new-branch>`
+- Pushing a new local branch to Github: `git push -u <new-branch>`

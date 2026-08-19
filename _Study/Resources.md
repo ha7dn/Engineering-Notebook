@@ -42,6 +42,9 @@ https://milanjovanovic.tech/blog/clean-architecture-dotnet
 https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/
 https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/
 Clean Architecture: A Craftsman's Guide to Software Structure and Design
+https://martinfowler.com/
+Domain-Driven Design: Tackling Complexity in the Heart of Software
+https://www.dddcommunity.org/
 ## Cloud Computing
 https://learn.microsoft.com/en-us/azure/architecture/patterns/
 https://learn.microsoft.com/en-us/azure/architecture/
@@ -76,3 +79,13 @@ https://www.geeksforgeeks.org/system-design/case-studies-in-system-design/
 | Microsoft Azure Developer Associate (AZ-204) Exam Prep Professional Certificate | https://www.coursera.org/professional-certificates/azure-developer-associate                                                                              | 88    | 2.5   |
 | Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization                 | https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals                                                                           | 40    | 1     |
 | HashiCorp Certified: Terraform Associate 2026                                   | https://www.udemy.com/course/terraform-beginner-to-advanced/<br>https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-study-004 | 30    | 1     |
+https://milanjovanovic.tech/pragmatic-clean-architecture
+https://milanjovanovic.tech/modular-monolith-architecture
+## Open Source Projects
+- https://www.syncfusion.com/blogs/post/top-asp-dotnet-core-open-source-apps
+- https://dotnet.in.ua/en/open-source
+- https://github.com/microsoft/dotnet/blob/main/dotnet-developer-projects.md
+- https://goodfirstissue.dev/language/csharp
+- https://up-for-grabs.net/#/filters?tags=.net
+- https://lioncoding.com/awesome-dotnet/
+- https://www.nopcommerce.com/en/blog/valuable-asp-net-open-source-projects
