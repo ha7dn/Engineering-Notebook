@@ -6,20 +6,20 @@ services:
       context: .
       dockerfile: src/Web.Api/Dockerfile
     ports:
-      - 5000:8080
-      - 5001:8081
+      - "5000:8080"
+      - "5001:8081"
 
   postgres:
     image: postgres:17
     container_name: postgres
     environment:
-      - POSTGRES_DB=clean-architecture
+      - POSTGRES_DB=fleetly
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     volumes:
       - ./.containers/db:/var/lib/postgresql/data
     ports:
-      - 5432:5432
+      - "5432:5432"
 
   seq:
     image: datalust/seq:2024.3
@@ -27,4 +27,4 @@ services:
     environment:
       - ACCEPT_EULA=Y
     ports:
-      - 8081:80
+      - "8081:80"
