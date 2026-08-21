@@ -11,11 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02aeccb8-312a-4151-80d0-46a9afe3b634" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Concepts.SRP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Concepts.OOP.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concepts.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Concepts.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Concepts.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Concepts.OOP.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-07-13.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-07-13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-07-30.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-07-30.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-14.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-14.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-17.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-17.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-18.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-19.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +52,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Encapsulation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_Projects/Personal/Fleetly/src/Web.Api/Extensions/ApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_Projects/Personal/Fleetly/src/Web.Api/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -54,6 +63,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3I8h0kG5OAWtHykjEYi9oMZNAoJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -125,7 +137,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="fleetly template project, fixed and solved run and build problems, run all tests and opened swagger. Also notes" />
     <MESSAGE value="oops, TMI" />
-    <option name="LAST_COMMIT_MESSAGE" value="oops, TMI" />
+    <MESSAGE value="Moved solution, changed project name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved solution, changed project name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
