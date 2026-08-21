@@ -10,7 +10,13 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02aeccb8-312a-4151-80d0-46a9afe3b634" name="Changes" comment="" />
+    <list default="true" id="02aeccb8-312a-4151-80d0-46a9afe3b634" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Concepts.SRP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Concepts.OOP.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concepts.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Concepts.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +26,7 @@
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="work-done-18-08-26" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +44,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_Projects/Personal/Fleetly/src/Web.Api/Extensions/ApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_Projects/Personal/Fleetly/src/Web.Api/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -62,7 +69,7 @@
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.jetbrains.opentelemetry.toolwindow.stripe.promo": "true",
-    "git-widget-placeholder": "work-done-19-08-26",
+    "git-widget-placeholder": "work-done-21-08-26",
     "git.auto.fetch.suggestion.counter": "1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,7 +109,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="work-done-21-08-26" />
                       </list>
                     </value>
                   </entry>
