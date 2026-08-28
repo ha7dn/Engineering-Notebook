@@ -10,21 +10,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02aeccb8-312a-4151-80d0-46a9afe3b634" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Concepts.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Concepts.OOP.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-07-13.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-07-13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-07-30.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-07-30.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-14.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-14.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-17.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-17.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-18.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily Notes/2026-08-19.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-08-19.md" afterDir="false" />
-    </list>
+    <list default="true" id="02aeccb8-312a-4151-80d0-46a9afe3b634" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +124,9 @@
     <MESSAGE value="fleetly template project, fixed and solved run and build problems, run all tests and opened swagger. Also notes" />
     <MESSAGE value="oops, TMI" />
     <MESSAGE value="Moved solution, changed project name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved solution, changed project name" />
+    <MESSAGE value="Moved Daily Notes location, Removed Examples from this repo" />
+    <MESSAGE value="gitignore fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
