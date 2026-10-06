@@ -1,6 +1,6 @@
 # Project Title
 
-[This](https://bionic-reading.com/) but for free for websites, articles, pdfs, and epubs0
+[This](https://bionic-reading.com/) but for free for websites, articles, pdfs, and epubs
 ## Description
 
 An in-depth paragraph about your project and overview of use.

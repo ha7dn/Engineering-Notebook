@@ -1,0 +1,10 @@
+﻿services:
+  simpleapi:
+    image: simpleapi.api
+    build:
+      context: .
+      dockerfile: SimpleApi.API/Dockerfile
+    ports:
+      - "5000:8080"
+      - "5001:8081"
+

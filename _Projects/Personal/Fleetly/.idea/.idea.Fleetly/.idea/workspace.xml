@@ -17,7 +17,77 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3cca7c6-05c9-41b5-b19a-5d0698a5d18f" name="Changes" comment="" />
+    <list default="true" id="d3cca7c6-05c9-41b5-b19a-5d0698a5d18f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coding Diaries/2026-08-14.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coding Diaries/2026-08-14.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coding Diaries/2026-08-17.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coding Diaries/2026-08-17.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coding Diaries/2026-08-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coding Diaries/2026-08-18.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coding Diaries/Useful git commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coding Diaries/Useful git commands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/PG_VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/PG_VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/base/1/PG_VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/base/1/PG_VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/base/16384/PG_VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/base/16384/PG_VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/base/4/PG_VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/base/4/PG_VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/base/5/PG_VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/base/5/PG_VERSION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/pg_hba.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/pg_hba.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/pg_ident.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/pg_ident.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/postgresql.auto.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/postgresql.auto.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/postgresql.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/postgresql.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.containers/db/postmaster.opts" beforeDir="false" afterPath="$PROJECT_DIR$/.containers/db/postmaster.opts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fleetly/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Directory.Packages.props" beforeDir="false" afterPath="$PROJECT_DIR$/Directory.Packages.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Abstractions/Authentication/ITokenProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Abstractions/Authentication/ITokenProvider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Abstractions/Data/IApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Abstractions/Data/IApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Todos/GetById/GetTodoByIdQueryHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Todos/GetById/GetTodoByIdQueryHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Todos/TodoCacheKeys.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Todos/TodoCacheKeys.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Todos/Update/UpdateTodoCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Todos/Update/UpdateTodoCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Todos/Update/UpdateTodoCommandValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Todos/Update/UpdateTodoCommandValidator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Users/AccessTokensResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Users/AccessTokensResponse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Users/Login/LoginUserCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Users/Login/LoginUserCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Users/Login/LoginUserCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Users/Login/LoginUserCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Users/Refresh/RefreshTokenCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Users/Refresh/RefreshTokenCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Users/Refresh/RefreshTokenCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Users/Refresh/RefreshTokenCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Users/Refresh/RefreshTokenCommandValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Users/Refresh/RefreshTokenCommandValidator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/Users/RefreshToken.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/Users/RefreshToken.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infrastructure/Users/RefreshTokenConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infrastructure/Users/RefreshTokenConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Web.Api/Endpoints/Todos/Update.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Web.Api/Endpoints/Todos/Update.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Web.Api/Endpoints/Users/Login.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Web.Api/Endpoints/Users/Login.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Web.Api/Endpoints/Users/RefreshToken.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Web.Api/Endpoints/Users/RefreshToken.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Web.Api/Endpoints/Users/Register.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Web.Api/Endpoints/Users/Register.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Web.Api/Extensions/OpenTelemetryExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Web.Api/Extensions/OpenTelemetryExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Web.Api/Extensions/RateLimitingExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Web.Api/Extensions/RateLimitingExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Web.Api/Infrastructure/RateLimitingPolicies.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Web.Api/Infrastructure/RateLimitingPolicies.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Abstractions/BaseHandlerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Abstractions/BaseHandlerTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Abstractions/TestDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Abstractions/TestDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Application.UnitTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Application.UnitTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/GlobalUsings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/GlobalUsings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/CompleteTodoCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/CompleteTodoCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/CreateTodoCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/CreateTodoCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/GetTodoByIdQueryHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/GetTodoByIdQueryHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/TodoValidatorsTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/TodoValidatorsTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/UpdateTodoCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Todos/UpdateTodoCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Users/LoginUserCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Users/LoginUserCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Users/RefreshTokenCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Users/RefreshTokenCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Application.UnitTests/Users/RegisterUserCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.UnitTests/Users/RegisterUserCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IntegrationTests/BaseIntegrationTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/IntegrationTests/BaseIntegrationTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IntegrationTests/GlobalUsings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/IntegrationTests/GlobalUsings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IntegrationTests/IntegrationTestCollection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/IntegrationTests/IntegrationTestCollection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IntegrationTests/IntegrationTestWebAppFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/IntegrationTests/IntegrationTestWebAppFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IntegrationTests/IntegrationTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tests/IntegrationTests/IntegrationTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IntegrationTests/Todos/TodosTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/IntegrationTests/Todos/TodosTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/IntegrationTests/Users/UsersTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tests/IntegrationTests/Users/UsersTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Study/Solid &amp; Clean Architecture/SOLID Principles/00 List of SOLID Principles.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Study/Solid &amp; Clean Architecture/SOLID Principles/00 List of SOLID Principles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Study/Solid &amp; Clean Architecture/SOLID Principles/Single Responsibility Principle.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Study/Solid &amp; Clean Architecture/SOLID Principles/Single Responsibility Principle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Study/_Concepts/Aggregate.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Study/_Concepts/Aggregate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Study/_Concepts/Invariants.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Study/_Concepts/Invariants.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +105,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ha7dn/Engineering-Notebook.git&quot;,
-    &quot;accountId&quot;: &quot;6e5928a9-2bb2-44d2-a1d9-d56b9df278b5&quot;
+    &quot;accountId&quot;: &quot;3c5ce029-d15c-4ea6-8075-ba238ac49626&quot;
   }
 }</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -52,30 +122,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Docker.Web.Api/Dockerfile.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.jetbrains.opentelemetry.toolwindow.stripe.promo": "true",
-    "git-widget-placeholder": "work-done-18-08-26",
-    "git.auto.fetch.suggestion.counter": "3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.C#"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Docker.Web.Api/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.jetbrains.opentelemetry.toolwindow.stripe.promo&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;work-done-21-08-26&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sam/Documents/AI-Readiness-Assessment-main/AI-Readiness-Assessment-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Docker.Web.Api/Dockerfile">
     <configuration name="Web.Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Web.Api/Web.Api.csproj" />
