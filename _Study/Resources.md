@@ -50,7 +50,6 @@ https://learn.microsoft.com/en-us/azure/architecture/patterns/
 https://learn.microsoft.com/en-us/azure/architecture/
 https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900
-## AI
 
 ## Case Studies
 https://bytebytego.com/guides/real-world-case-studies/?_gl=1*eb9gtb*_up*MQ..*_ga*MTI0NTc0NTEzNS4xNzgzOTM5NTk4*_ga_JPXSGYZ0D5*czE3ODM5Mzk1OTckbzEkZzAkdDE3ODM5Mzk1OTckajYwJGwwJGgwJGRfX3M2UVhsV3A3Y2tralVPSWxrSUVUQmZaek1fNkNUUU5R

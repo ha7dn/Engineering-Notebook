@@ -20,7 +20,7 @@
     <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="work-done-18-08-26" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +38,8 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Encapsulation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coding Diaries/Examples/Concepts/src/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_Projects/Personal/Fleetly/src/Web.Api/Extensions/ApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_Projects/Personal/Fleetly/src/Web.Api/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -47,6 +49,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3I8h0kG5OAWtHykjEYi9oMZNAoJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +67,7 @@
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.jetbrains.opentelemetry.toolwindow.stripe.promo": "true",
-    "git-widget-placeholder": "work-done-19-08-26",
+    "git-widget-placeholder": "work-done-21-08-26",
     "git.auto.fetch.suggestion.counter": "1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,7 +107,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="work-done-21-08-26" />
                       </list>
                     </value>
                   </entry>
@@ -118,7 +123,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="fleetly template project, fixed and solved run and build problems, run all tests and opened swagger. Also notes" />
     <MESSAGE value="oops, TMI" />
-    <option name="LAST_COMMIT_MESSAGE" value="oops, TMI" />
+    <MESSAGE value="Moved solution, changed project name" />
+    <MESSAGE value="Moved Daily Notes location, Removed Examples from this repo" />
+    <MESSAGE value="gitignore fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
