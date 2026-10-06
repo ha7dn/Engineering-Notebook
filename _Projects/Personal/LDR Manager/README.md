@@ -1,6 +1,11 @@
 # Project Title
 
 Management app for LDR couples that saves special dates, has a countdown, manages flights and flight prices and documentation necessary.
+It also manages packages and packagae tracking
+Shows manager (inspo: myanimelist.net)
+- with sound playing in the background and moving background effect
+Our own private, self hosted discord server clone
+Our 
 ## Description
 
 An in-depth paragraph about your project and overview of use.

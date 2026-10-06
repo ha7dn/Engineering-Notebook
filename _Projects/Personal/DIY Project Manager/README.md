@@ -1,7 +1,6 @@
 # Project Title
 
 Project Manager for side projects customized for my needs
-
 ## Description
 
 An in-depth paragraph about your project and overview of use.
