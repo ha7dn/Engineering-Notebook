@@ -400,7 +400,7 @@ FodyWeavers.xsd
 _Study - Shortcut.lnk
 *.env
 _Projects/Examples
-*.idea/
+*/.idea/
 _Projects/Personal
 .vscode/
 .trash/
@@ -411,6 +411,5 @@ _Projects/Personal
 *.jpeg
 *.gif
 
-.idea/
 _Projects/Personal/
 _Projects/CS-APP/
