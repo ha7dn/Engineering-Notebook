@@ -400,3 +400,4 @@ FodyWeavers.xsd
 _Study - Shortcut.lnk
 *.env
 _Projects/Examples
+*.idea/
