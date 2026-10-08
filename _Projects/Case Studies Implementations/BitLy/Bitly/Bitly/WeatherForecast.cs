@@ -1,4 +1,4 @@
-namespace SimpleApi.API;
+namespace Bitly;
 
 public class WeatherForecast
 {

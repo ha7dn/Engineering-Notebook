@@ -1,0 +1,7 @@
+﻿services:
+  bitly:
+    image: bitly
+    build:
+      context: .
+      dockerfile: Bitly/Dockerfile
+
