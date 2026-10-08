@@ -24,6 +24,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -31,6 +32,13 @@
     &quot;assignee&quot;: &quot;ha7dn&quot;
   }
 }</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ha7dn/Engineering-Notebook.git&quot;,
@@ -67,13 +75,15 @@
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.jetbrains.opentelemetry.toolwindow.stripe.promo": "true",
-    "git-widget-placeholder": "work-done-06-11-26",
+    "git-widget-placeholder": "work-done-09-10-26",
     "git.auto.fetch.suggestion.counter": "1",
+    "last_opened_file_path": "/home/sam/Documents",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
   <component name="TaskManager">
@@ -107,7 +117,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="work-done-21-08-26" />
+                        <option value="work-done-09-10-26" />
                       </list>
                     </value>
                   </entry>
@@ -126,7 +136,8 @@
     <MESSAGE value="Moved solution, changed project name" />
     <MESSAGE value="Moved Daily Notes location, Removed Examples from this repo" />
     <MESSAGE value="gitignore fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore fix" />
+    <MESSAGE value="removed k8s demo from this repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed k8s demo from this repo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
