@@ -411,3 +411,8 @@ _Projects/Personal
 *.jpeg
 *.gif
 
+/.idea/
+/.trash/
+/.vscode/
+/_Projects/Personal/
+/_Projects/CS-APP/
