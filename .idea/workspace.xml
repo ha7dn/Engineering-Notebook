@@ -138,7 +138,8 @@
     <MESSAGE value="gitignore fix" />
     <MESSAGE value="removed k8s demo from this repo" />
     <MESSAGE value="added files and folders to gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added files and folders to gitignore" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
