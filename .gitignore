@@ -399,5 +399,16 @@ FodyWeavers.xsd
 *.obsidian/
 _Study - Shortcut.lnk
 *.env
-_Projects/Examples
-*.idea/
+.idea
+_Projects/Personal/
+_Projects/CS-APP/
+.vscode
+.trash
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+
