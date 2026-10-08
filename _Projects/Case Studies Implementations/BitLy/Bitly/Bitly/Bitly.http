@@ -1,6 +1,0 @@
-@Bitly_HostAddress = http://localhost:5174
-
-GET {{Bitly_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
