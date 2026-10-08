@@ -10,7 +10,12 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02aeccb8-312a-4151-80d0-46a9afe3b634" name="Changes" comment="" />
+    <list default="true" id="02aeccb8-312a-4151-80d0-46a9afe3b634" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding Diaries/2026-10-08.md" beforeDir="false" afterPath="$PROJECT_DIR$/Coding Diaries/2026-10-08.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Projects/Personal/Fleetly/.idea/.idea.Fleetly/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +80,7 @@
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.jetbrains.opentelemetry.toolwindow.stripe.promo": "true",
-    "git-widget-placeholder": "work-done-09-10-26",
+    "git-widget-placeholder": "work-done-08-10-26",
     "git.auto.fetch.suggestion.counter": "1",
     "last_opened_file_path": "/home/sam/Documents",
     "node.js.detected.package.eslint": "true",
